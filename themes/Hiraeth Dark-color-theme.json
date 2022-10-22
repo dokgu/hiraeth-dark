@@ -990,8 +990,7 @@
 		{
 			"scope": "meta.separator",
 			"settings": {
-				"foreground": "#ABB2BF",
-				"background": "#373B41"
+				"foreground": "#ABB2BF"
 			}
 		},
 		{
@@ -1013,15 +1012,12 @@
 		{
 			"scope": "invalid.deprecated",
 			"settings": {
-				"foreground": "#523D14",
-				"background": "#E0C285"
+				"foreground": "#523D14"
 			}
 		},
 		{
 			"scope": "invalid.illegal",
-			"settings": {
-				"background": "#E05252"
-			}
+			"settings": {}
 		},
 		{
 			"scope": "markup.bold",
