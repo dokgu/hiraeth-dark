@@ -1,21 +1,21 @@
 {
-  "name": "hiraeth-dark",
-  "displayName": "Hiraeth Dark",
-  "description": "Atom One Dark Theme with darker background color.",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.72.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Hiraeth Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Hiraeth Dark-color-theme.json"
-      }
-    ]
-  }
+	"name": "hiraeth-dark",
+	"displayName": "Hiraeth Dark",
+	"description": "Atom One Dark Theme with darker background color.",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.72.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Hiraeth Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/hiraeth-dark-color-theme.json"
+			}
+		]
+	}
 }
