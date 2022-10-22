@@ -7,7 +7,7 @@
 	"engines": {
 		"vscode": "^1.72.0"
 	},
-	"icon": "https://gitlab.com/uploads/-/system/project/avatar/40435959/logo.png",
+	"icon": "icons/logo.png",
 	"author": {
 		"name": "Patrick Gregorio",
 		"url": "https://pgregorio.dev/"
