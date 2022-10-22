@@ -3,7 +3,7 @@
 	"displayName": "Hiraeth Dark",
 	"description": "Atom One Dark Theme with darker background color.",
 	"publisher": "dokgu",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"engines": {
 		"vscode": "^1.72.0"
 	},
@@ -13,7 +13,7 @@
 		"url": "https://pgregorio.dev/"
 	},
 	"repository": {
-		"url": "https://github.com/dokgu/hiraeth-dark.git",
+		"url": "https://github.com/dokgu/hiraeth-dark",
 		"type": "git"
 	},
 	"categories": [
